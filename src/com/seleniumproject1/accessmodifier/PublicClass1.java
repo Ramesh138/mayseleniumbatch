@@ -19,6 +19,8 @@ public class PublicClass1 {
 		
 	}
 	
+	
+	
 	 public static void main(String[] args) {
 		Privateclass pri= new Privateclass();
 		Protectedclass pro=new Protectedclass();
