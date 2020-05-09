@@ -1,6 +1,7 @@
 package com.seleniumproject1.operator;
 
-public class Operator {
+
+public class Operator{
 
 	public void arthematic() {
 
