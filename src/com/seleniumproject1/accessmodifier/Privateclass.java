@@ -9,9 +9,7 @@ public class Privateclass {
 	// If  we want access the private   variables and methods  then only by using public method  ..... we can able to access
 	
 	private String name="Ramesh";
-	public static void main(String[] args) {
-		
-	}
+
 	
 	private void name() {
 		System.out.println("Method m1");

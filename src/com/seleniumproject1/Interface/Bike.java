@@ -7,5 +7,5 @@ public interface Bike {
 	public abstract void speed();
 	
 	void clutch();
-
+	
 }
