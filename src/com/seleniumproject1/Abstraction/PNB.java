@@ -8,9 +8,5 @@ public class PNB extends RbiBank {
 		
 	}
 
-	@Override
-	public void getintrestrate1() {
-		// TODO Auto-generated method stub
-		
-	}
+
 }
